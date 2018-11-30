@@ -3,3 +3,7 @@ function name(){
     
 }
 name()
+function addName(){
+    console.log("please add your name");
+    
+}
