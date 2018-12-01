@@ -7,3 +7,8 @@ function addName(){
     console.log("please add your name");
     
 }
+
+const person=()=>{
+    console.log("What is the person name");
+    
+}
