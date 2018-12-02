@@ -12,3 +12,7 @@ const person=()=>{
     console.log("What is the person name");
     
 }
+const person2=()=>{
+    console.log("What is the person name");
+    
+}
